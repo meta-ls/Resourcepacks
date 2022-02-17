@@ -1,0 +1,71 @@
+{
+"plane.engine.recipro-flying": {
+		 "sounds": [
+		"engine/recipro-flying"
+		]
+},
+"plane.engine.recipro-rolling": {
+		 "sounds": [
+		"engine/recipro-rolling"
+		]
+},
+"plane.engine.recipro-start": {
+		 "sounds": [
+		"engine/recipro-start"
+		]
+},
+"plane.engine.jet-flying": {
+	"sounds": [
+   "engine/jet-flying"
+   ]
+},
+"plane.engine.jet-rolling": {
+	"sounds": [
+   "engine/jet-rolling"
+   ]
+},
+"plane.engine.jet-start": {
+	"sounds": [
+   "engine/jet-start"
+   ]
+},
+"weapon.gun-7p7mm.fire": {
+	"sounds": [
+   "weapon/gun-7p7mm"
+   ]
+},
+"weapon.gun-12p7mm.fire": {
+	"sounds": [
+   "weapon/gun-12p7mm"
+   ]
+},
+"weapon.gun-12p7mm-2.fire": {
+	"sounds": [
+   "weapon/gun-12p7mm-2"
+   ]
+},
+"weapon.gun-37mm.fire": {
+	"sounds": [
+   "weapon/gun-37mm"
+   ]
+},
+"blank":{
+"sounds":[{"name":"custom/blank","stream":true}],"category":"player"}
+}
+{
+"krossyenderdragonbossmusiccccc":{
+"sounds":[{"name":"custom/krossyenderdragonbossmusiccccc","stream":true}],"category":"master"},
+"krossywitherbossmusicccc":{
+"sounds":[{"name":"custom/krossywitherbossmusicccc","stream":true}],"category":"master"}
+}
+{
+	"block.bed.change_bedsheets": {
+		"subtitle": "bob.subtitles.item.banner.change_bedsheets",
+		"sounds": [
+			"bob:bedsheets_changed_1",
+			"bob:bedsheets_changed_2",
+			"bob:bedsheets_changed_3",
+			"bob:bedsheets_changed_4"
+		]
+	}
+}
