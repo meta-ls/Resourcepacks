@@ -1,0 +1,9 @@
+{
+    "railcraft.empty": "",
+    "railcraft.error.item_eject":"An error occured while removing an invalid item. We at Cheese Labs apologize if any valuable or importaint items were lost.",
+    "railcraft.gui.coupling_enabled": "Coupling enabled",
+    "railcraft.gui.coupling_disabled": "Coupling disabled",
+    "railcraft.gui.movement_enabled": "Movement enabled",
+    "railcraft.gui.movement_disabled": "Movement disabled",
+    "railcraft.gui.fuel": "Shift+Click to view fuel level"
+}
