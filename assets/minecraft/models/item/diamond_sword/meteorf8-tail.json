@@ -1,0 +1,1238 @@
+{
+	"__comment": "Designed by Uran2471 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "blocks/particle",
+		"texture": "blocks/texture",
+		"meteorf8-tail": "custom/meteorf8-tail"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "tail",
+			"from": [ -1.1327, 12.4602, 26.0531 ],
+			"to": [ 17.13279, 12.88498, 27.75221 ],
+			"faces": {
+				"down": { "uv": [ 0, 15.5, 5.375, 16 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 0, 15.5, 5.375, 15 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 5.375, 15.75, 10.75, 15.875 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.75, 15.875, 5.375, 16 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 13.625, 13.875, 13.125, 14 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 12.625, 13.875, 13.125, 14 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail1",
+			"from": [ -0.708, 12.4602, 27.7522 ],
+			"to": [ 16.70793, 12.88498, 28.17698 ],
+			"faces": {
+				"down": { "uv": [ 10.75, 15.875, 15.875, 16 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.75, 15.875, 15.875, 15.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.5, 15.625, 15.625, 15.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.5, 15.625, 5.375, 15.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.125, 10.375, 10, 10.5 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.125, 10.375, 10.25, 10.5 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail2",
+			"from": [ -0.708, 12.4602, 25.6283 ],
+			"to": [ 16.70793, 12.88498, 26.05308 ],
+			"faces": {
+				"down": { "uv": [ 5.375, 15.5, 10.5, 15.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.5, 15.5, 15.625, 15.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.5, 15.5, 15.625, 15.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.5, 15.375, 5.375, 15.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.25, 10.75, 10.125, 10.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.25, 10.625, 10.375, 10.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail3",
+			"from": [ -0.2832, 12.4602, 28.177 ],
+			"to": [ 16.28317, 12.88498, 28.60178 ],
+			"faces": {
+				"down": { "uv": [ 5.375, 15.125, 10.25, 15.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.25, 15.375, 15.125, 15.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 5.375, 15.25, 10.25, 15.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 15.125, 15.125, 10.25, 15.25 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.125, 9.125, 10, 9.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.25, 9.125, 10.375, 9.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail4",
+			"from": [ 0.1416, 12.4602, 25.2035 ],
+			"to": [ 15.85841, 12.88498, 25.62828 ],
+			"faces": {
+				"down": { "uv": [ 0.625, 11.75, 5.25, 11.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 0.625, 11.75, 5.25, 11.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 0.625, 11.375, 5.25, 11.5 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 5.25, 11.5, 0.625, 11.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.125, 10.25, 10, 10.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.25, 10.375, 10.375, 10.5 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail5",
+			"from": [ 0.9912, 12.4602, 28.6018 ],
+			"to": [ 15.0089, 12.88498, 29.02658 ],
+			"faces": {
+				"down": { "uv": [ 1, 11.25, 5.125, 11.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 1, 11.25, 5.125, 11.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 1, 10.875, 5.125, 11 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 5.125, 11, 1, 11.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 11.625, 13.5, 11.5, 13.625 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 11.375, 13.5, 11.5, 13.625 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail6",
+			"from": [ 1.4159, 12.4602, 24.7788 ],
+			"to": [ 14.58404, 12.88498, 25.20358 ],
+			"faces": {
+				"down": { "uv": [ 1, 10.75, 4.875, 10.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 1, 10.75, 4.875, 10.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 1, 10.375, 4.875, 10.5 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 4.875, 10.5, 1, 10.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.375, 8.25, 10.25, 8.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.25, 8.5, 10.375, 8.625 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail7",
+			"from": [ 2.6903, 12.4602, 29.0265 ],
+			"to": [ 13.30977, 12.88498, 29.45128 ],
+			"faces": {
+				"down": { "uv": [ 5.375, 14.625, 8.5, 14.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 5.375, 14.625, 8.5, 14.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 5.375, 14.25, 8.5, 14.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 8.5, 14.375, 5.375, 14.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.875, 13.5, 10.75, 13.625 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10, 8.125, 10.125, 8.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail8",
+			"from": [ 2.6903, 12.4602, 24.354 ],
+			"to": [ 13.30977, 12.88498, 24.77878 ],
+			"faces": {
+				"down": { "uv": [ 5.375, 13.5, 8.5, 13.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 5.375, 15.125, 8.5, 15 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 5.375, 14.75, 8.5, 14.875 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 8.5, 14.875, 5.375, 15 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 16, 15.875, 15.875, 16 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.875, 13.5, 11, 13.625 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail9",
+			"from": [ 3.9646, 12.4602, 23.9292 ],
+			"to": [ 12.0354, 12.88498, 24.35398 ],
+			"faces": {
+				"down": { "uv": [ 5.375, 11.625, 7.75, 11.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 5.375, 11.625, 7.75, 11.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 5.375, 11.25, 7.75, 11.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 7.75, 11.375, 5.375, 11.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.375, 11.75, 5.25, 11.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 5.25, 11.375, 5.375, 11.5 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail10",
+			"from": [ 4.3894, 12.4602, 29.4513 ],
+			"to": [ 11.61064, 12.88498, 29.87608 ],
+			"faces": {
+				"down": { "uv": [ 5.375, 10.125, 7.5, 10.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 5.375, 10.125, 7.5, 10 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 5.375, 9.75, 7.5, 9.875 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 7.5, 9.875, 5.375, 10 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.25, 8.875, 10.125, 9 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 4.125, 13.25, 4.25, 13.375 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail11",
+			"from": [ 5.2389, 12.4602, 23.5044 ],
+			"to": [ 10.76102, 12.88498, 23.92918 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 8.75, 8.5, 8.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 6.875, 9, 8.5, 8.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 6.875, 8.5, 8.5, 8.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 8.5, 8.625, 6.875, 8.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.25, 9, 10.125, 9.125 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10, 9.75, 10.125, 9.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail12",
+			"from": [ 6.0885, 5.6637, 14.5841 ],
+			"to": [ 9.911509, 8.212372, 15.00888 ],
+			"faces": {
+				"down": { "uv": [ 13.25, 14.5, 14.375, 14.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 12.125, 14.75, 13.25, 14.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 3.25, 14.25, 4.375, 15 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 1.75, 13.25, 0.625, 14 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.375, 14.25, 5.25, 15 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 3.75, 8.125, 3.875, 8.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail13",
+			"from": [ 6.0885, 6.0885, 15.0088 ],
+			"to": [ 9.911509, 8.212394, 16.28314 ],
+			"faces": {
+				"down": { "uv": [ 3.875, 10, 5, 10.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 2.75, 10, 3.875, 9.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 0.625, 12.625, 1.75, 13.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 5.375, 13.375, 4.25, 14 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.75, 8.625, 5.375, 9.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 6.5, 8.5, 6.875, 9.125 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail14",
+			"from": [ 6.0885, 6.5133, 16.2832 ],
+			"to": [ 9.911509, 7.787636, 17.13276 ],
+			"faces": {
+				"down": { "uv": [ 5.375, 10.875, 6.5, 11.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 6.5, 11.125, 7.625, 10.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 2.75, 9.25, 3.875, 9.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 3.875, 8.875, 2.75, 9.25 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 2.75, 9, 2.5, 9.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 2.5, 8.375, 2.75, 8.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail15",
+			"from": [ 6.0885, 6.9381, 17.1327 ],
+			"to": [ 9.911509, 7.787657, 17.98226 ],
+			"faces": {
+				"down": { "uv": [ 5.375, 10.625, 6.5, 10.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 3.25, 14.25, 4.375, 14 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 5.375, 10.375, 6.5, 10.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 7.625, 10.625, 6.5, 10.875 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10, 12.25, 9.75, 12.5 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.75, 12, 10, 12.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail16",
+			"from": [ 6.0885, 7.3628, 17.9823 ],
+			"to": [ 9.911509, 7.787579, 18.40708 ],
+			"faces": {
+				"down": { "uv": [ 10, 14.75, 11.125, 14.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 4.25, 13.375, 5.375, 13.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 14.375, 14.5, 15.5, 14.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 2.875, 13.25, 1.75, 13.375 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.375, 9.25, 10.25, 9.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10, 9, 10.125, 9.125 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail17",
+			"from": [ 6.0885, 12.4602, 29.8761 ],
+			"to": [ 9.911509, 12.88498, 30.30088 ],
+			"faces": {
+				"down": { "uv": [ 14.375, 14.625, 15.5, 14.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 13.25, 14.75, 14.375, 14.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 3, 13.25, 4.125, 13.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 13.25, 14.5, 12.125, 14.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.375, 9.625, 10.25, 9.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10, 9.25, 10.125, 9.375 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail18",
+			"from": [ 6.5133, 5.2389, 16.2832 ],
+			"to": [ 9.486752, 6.513236, 16.70798 ],
+			"faces": {
+				"down": { "uv": [ 3.25, 11.875, 4.125, 12 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.125, 14.375, 10, 14.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 6.25, 13.125, 7.125, 13.5 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 6.875, 13.875, 6, 14.25 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10, 10.75, 9.875, 11.125 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.75, 10.375, 9.875, 10.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail19",
+			"from": [ 6.5133, 5.2389, 15.0088 ],
+			"to": [ 9.486752, 6.088457, 16.28314 ],
+			"faces": {
+				"down": { "uv": [ 1, 8, 1.875, 8.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 4.5, 8.375, 5.375, 8 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 4.375, 14, 5.25, 14.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 8.5, 10.875, 7.625, 11.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 15.875, 14.5, 15.5, 14.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.25, 13.75, 9.625, 14 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail20",
+			"from": [ 6.5133, 5.2389, 14.5841 ],
+			"to": [ 9.486752, 5.663679, 15.00888 ],
+			"faces": {
+				"down": { "uv": [ 15.125, 15.125, 16, 15.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10, 14.5, 10.875, 14.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 15.125, 15.25, 16, 15.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 11.75, 14.375, 10.875, 14.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.25, 9.75, 10.125, 9.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.125, 9.625, 10.25, 9.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail21",
+			"from": [ 6.5133, 5.6637, 18.4071 ],
+			"to": [ 9.486752, 8.212372, 18.83188 ],
+			"faces": {
+				"down": { "uv": [ 11.75, 14.375, 12.625, 14.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 7.625, 11.25, 8.5, 11.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 1.5, 11.875, 2.375, 12.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 1.5, 11.875, 0.625, 12.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.625, 9.75, 9.5, 10.5 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.375, 9.75, 9.5, 10.5 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail22",
+			"from": [ 6.5133, 5.6637, 17.9823 ],
+			"to": [ 9.486752, 7.362815, 18.40708 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 9.75, 8.375, 9.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 7.625, 10.375, 8.5, 10.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 1, 9.375, 1.875, 9.875 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 1.875, 8.375, 1, 8.875 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 8.5, 13.75, 8.375, 14.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.625, 12.375, 9.75, 12.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail23",
+			"from": [ 6.5133, 5.6637, 17.1327 ],
+			"to": [ 9.486752, 6.938036, 17.98226 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 9, 7.75, 9.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 6, 13.875, 6.875, 13.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 7.125, 13.125, 8, 13.5 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 6.25, 12.75, 5.375, 13.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.375, 9.25, 5.125, 9.625 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 2.5, 8, 2.75, 8.375 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail24",
+			"from": [ 6.5133, 5.6637, 16.708 ],
+			"to": [ 9.486752, 6.513257, 17.13278 ],
+			"faces": {
+				"down": { "uv": [ 10.875, 14.25, 11.75, 14.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 11.75, 14.375, 12.625, 14.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 6.5, 10.375, 7.375, 10.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 8.25, 10.375, 7.375, 10.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.875, 9.375, 9.75, 9.625 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.875, 9.375, 10, 9.625 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail25",
+			"from": [ 6.5133, 6.0885, 18.8319 ],
+			"to": [ 9.486752, 8.212394, 20.95579 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 12.625, 4.375, 13.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 2.625, 13.25, 3.5, 12.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 1.75, 12.625, 2.625, 13.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 5, 12, 4.125, 12.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 2.5, 8.75, 1.875, 9.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 1.875, 8.125, 2.5, 8.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail26",
+			"from": [ 6.5133, 6.5133, 20.9557 ],
+			"to": [ 9.486752, 8.212415, 22.65482 ],
+			"faces": {
+				"down": { "uv": [ 1, 8.875, 1.875, 9.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 1, 10.375, 1.875, 9.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 1.875, 9.875, 2.75, 10.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 2.75, 9.375, 1.875, 9.875 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 8.375, 11.75, 7.875, 12.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 5.375, 9.25, 5.875, 9.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail27",
+			"from": [ 6.5133, 6.9381, 22.6549 ],
+			"to": [ 9.486752, 8.212437, 23.92924 ],
+			"faces": {
+				"down": { "uv": [ 6.25, 12.75, 7.125, 13.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 7.125, 13.125, 8, 12.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 6.875, 13.875, 7.75, 14.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 6.25, 13.125, 5.375, 13.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9, 9, 8.625, 9.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 8.625, 9.375, 9, 9.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail28",
+			"from": [ 6.5133, 7.3628, 23.9292 ],
+			"to": [ 9.486752, 8.212358, 24.77876 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 13.625, 7.75, 13.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 7.625, 10.875, 8.5, 10.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 6.875, 9.5, 7.75, 9.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 7.75, 9.25, 6.875, 9.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.375, 9, 5.125, 9.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 8.25, 10.375, 8.5, 10.625 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail29",
+			"from": [ 6.5133, 7.7876, 16.2832 ],
+			"to": [ 9.486752, 8.212379, 18.40709 ],
+			"faces": {
+				"down": { "uv": [ 3.25, 12, 4.125, 12.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 4.375, 13.25, 5.25, 12.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 12.625, 14.375, 13.5, 14.5 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10, 14.375, 9.125, 14.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 13.875, 14.75, 13.25, 14.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 12.625, 14.75, 13.25, 14.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail30",
+			"from": [ 6.5133, 8.212399, 14.5841 ],
+			"to": [ 9.486752, 8.637178, 17.13277 ],
+			"faces": {
+				"down": { "uv": [ 4.375, 14.25, 5.25, 15 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 2.375, 12.625, 3.25, 11.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 12.625, 14.25, 13.5, 14.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 5, 11.875, 4.125, 12 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 14.25, 14.25, 13.5, 14.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.625, 14.125, 10.375, 14.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail31",
+			"from": [ 6.5133, 12.4602, 23.0796 ],
+			"to": [ 9.486752, 12.88498, 23.50438 ],
+			"faces": {
+				"down": { "uv": [ 10, 14.25, 10.875, 14.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 14.375, 14.5, 15.25, 14.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 13.5, 14.375, 14.375, 14.5 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 8.375, 9.875, 7.5, 10 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.25, 10, 10.125, 10.125 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.125, 9.875, 10.25, 10 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail32",
+			"from": [ 6.9381, 4.8142, 16.708 ],
+			"to": [ 9.061994, 5.663757, 17.13278 ],
+			"faces": {
+				"down": { "uv": [ 13.875, 14.75, 14.5, 14.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 14.5, 14.875, 15.125, 14.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.875, 14.5, 11.5, 14.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 12, 14.875, 11.375, 15.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 16, 14.5, 15.875, 14.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.125, 8, 9.25, 8.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail33",
+			"from": [ 6.9381, 4.8142, 14.5841 ],
+			"to": [ 9.061994, 5.238979, 16.70799 ],
+			"faces": {
+				"down": { "uv": [ 5.375, 13.625, 6, 14.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 3.875, 9.625, 4.5, 9 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.375, 14.125, 11, 14.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 15.75, 14.75, 15.125, 14.875 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 12.25, 14.125, 11.625, 14.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 11, 14.125, 11.625, 14.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail34",
+			"from": [ 6.9381, 5.2389, 17.1327 ],
+			"to": [ 9.061994, 5.663679, 18.83182 ],
+			"faces": {
+				"down": { "uv": [ 7.875, 12.25, 8.5, 12.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 5.375, 12.25, 6, 11.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 12.875, 14.125, 13.5, 14.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 12.875, 14.125, 12.25, 14.25 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.375, 10.375, 4.875, 10.5 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 3.375, 8, 3.875, 8.125 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail35",
+			"from": [ 6.9381, 5.6637, 18.8319 ],
+			"to": [ 9.061994, 6.088479, 20.95579 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 8.375, 5.125, 9 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 3.875, 9, 4.5, 8.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 13.5, 14.125, 14.125, 14.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 11, 13.875, 10.375, 14 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 15.375, 14.125, 14.75, 14.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 14.125, 14.125, 14.75, 14.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail36",
+			"from": [ 6.9381, 6.0885, 22.6549 ],
+			"to": [ 9.061994, 6.938057, 23.07968 ],
+			"faces": {
+				"down": { "uv": [ 15.375, 14.125, 16, 14.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.625, 14.125, 10.25, 14 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 12.625, 14.875, 13.25, 15.125 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 13.875, 14.875, 13.25, 15.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.375, 14, 5.25, 14.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 8.375, 9, 8.5, 9.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail37",
+			"from": [ 6.9381, 6.0885, 20.9557 ],
+			"to": [ 9.061994, 6.513279, 22.65482 ],
+			"faces": {
+				"down": { "uv": [ 7.25, 11.75, 7.875, 12.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 7.75, 14.25, 8.375, 13.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.875, 14, 11.5, 14.125 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.875, 14, 10.25, 14.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.375, 10.75, 4.875, 10.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 4.875, 10.625, 5.375, 10.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail38",
+			"from": [ 6.9381, 6.5133, 24.7788 ],
+			"to": [ 9.061994, 8.637194, 25.20358 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 14, 12.125, 14.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 12.125, 14.125, 12.75, 14 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 2.75, 8.25, 3.375, 8.875 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 5.125, 9, 4.5, 9.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.75, 13.375, 9.625, 14 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.5, 8.625, 9.625, 9.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail39",
+			"from": [ 6.9381, 6.5133, 23.9292 ],
+			"to": [ 9.061994, 7.362857, 24.77876 ],
+			"faces": {
+				"down": { "uv": [ 12, 14.875, 12.625, 15.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 14.5, 15.125, 15.125, 14.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 7.75, 9, 8.375, 9.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 15.75, 14.875, 15.125, 15.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 0.625, 8, 0.375, 8.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 2.5, 8.75, 2.75, 9 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail40",
+			"from": [ 6.9381, 6.5133, 23.0796 ],
+			"to": [ 9.061994, 6.938079, 23.92916 ],
+			"faces": {
+				"down": { "uv": [ 2.75, 8, 3.375, 8.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 11.5, 14.75, 12.125, 14.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 13.375, 14, 14, 14.125 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 13.375, 14, 12.75, 14.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.25, 10.875, 10, 11 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 15.75, 14.25, 16, 14.375 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail41",
+			"from": [ 6.9381, 6.9381, 25.2035 ],
+			"to": [ 9.061994, 8.637215, 26.47783 ],
+			"faces": {
+				"down": { "uv": [ 3.875, 8, 4.5, 8.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 5.875, 9.75, 6.5, 9.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 5.375, 12.25, 6, 12.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 7.875, 12.25, 7.25, 12.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 7.625, 8, 7.25, 8.5 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 7.625, 8, 8, 8.5 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail42",
+			"from": [ 6.9381, 7.3628, 26.4779 ],
+			"to": [ 9.061994, 8.212358, 27.32746 ],
+			"faces": {
+				"down": { "uv": [ 9, 14.5, 9.625, 14.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.625, 14.75, 10.25, 14.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 13.875, 14.875, 14.5, 15.125 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.875, 14.5, 10.25, 14.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10, 11.5, 9.75, 11.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 15.75, 14.875, 16, 15.125 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail43",
+			"from": [ 6.9381, 8.212399, 17.1327 ],
+			"to": [ 9.061994, 8.637178, 24.77872 ],
+			"faces": {
+				"down": { "uv": [ 0, 11.75, 0.625, 14 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 0, 11.75, 0.625, 9.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 14.625, 14, 15.25, 14.125 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 14.625, 14, 14, 14.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 7.625, 11.125, 5.375, 11.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 5.375, 10.25, 7.625, 10.375 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail44",
+			"from": [ 6.9381, 8.637199, 14.5841 ],
+			"to": [ 9.061994, 9.061978, 16.28321 ],
+			"faces": {
+				"down": { "uv": [ 6, 11.75, 6.625, 12.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 6.625, 12.25, 7.25, 11.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.75, 13.875, 10.375, 14 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 15.875, 14, 15.25, 14.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 12.625, 13.875, 12.125, 14 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 11.625, 13.875, 12.125, 14 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail45",
+			"from": [ 7.3628, 4.3894, 14.5841 ],
+			"to": [ 8.637136, 4.814179, 15.00888 ],
+			"faces": {
+				"down": { "uv": [ 15.25, 13.625, 15.625, 13.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 5.875, 8.125, 6.25, 8 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 12.5, 10.375, 12.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 16, 15.375, 15.625, 15.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.25, 9.125, 10.125, 9.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10, 10.5, 10.125, 10.625 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail46",
+			"from": [ 7.3628, 4.8142, 17.1327 ],
+			"to": [ 8.637136, 5.238979, 18.83182 ],
+			"faces": {
+				"down": { "uv": [ 0.625, 8, 1, 8.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 8.625, 13.625, 9, 13.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 15.625, 13.625, 16, 13.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 13.5, 10, 13.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 12.75, 13.75, 12.25, 13.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.75, 13.75, 10.25, 13.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail47",
+			"from": [ 7.3628, 5.2389, 18.8319 ],
+			"to": [ 8.637136, 5.663679, 20.53102 ],
+			"faces": {
+				"down": { "uv": [ 6.875, 8, 7.25, 8.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 8, 8.5, 8.375, 8 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 15.625, 13.875, 16, 14 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 12.625, 10, 12.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 12.25, 13.75, 11.75, 13.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 13.625, 13.875, 14.125, 14 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail48",
+			"from": [ 7.3628, 5.6637, 23.0796 ],
+			"to": [ 8.637136, 6.513257, 23.50438 ],
+			"faces": {
+				"down": { "uv": [ 10, 12, 10.375, 12.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 15.625, 15.75, 16, 15.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.25, 11.5, 9.625, 11.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 9.625, 13.25, 9.25, 13.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.875, 8.125, 9.75, 8.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.875, 8.875, 10, 9.125 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail49",
+			"from": [ 7.3628, 5.6637, 20.9557 ],
+			"to": [ 8.637136, 6.088479, 23.07959 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 9.125, 6.875, 9.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 5.375, 8.625, 5.75, 8 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 13, 10.375, 13.125 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 13.125, 10, 13.25 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 2.5, 8, 1.875, 8.125 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 11, 13.875, 11.625, 14 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail50",
+			"from": [ 7.3628, 6.0885, 23.5044 ],
+			"to": [ 8.637136, 6.513279, 25.20352 ],
+			"faces": {
+				"down": { "uv": [ 8.625, 14.625, 9, 15.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 8.625, 14.125, 9, 13.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 11.875, 10.375, 12 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 12.375, 10, 12.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 14.625, 13.875, 14.125, 14 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 14.625, 13.875, 15.125, 14 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail51",
+			"from": [ 7.3628, 6.5133, 27.3274 ],
+			"to": [ 8.637136, 8.637194, 27.75218 ],
+			"faces": {
+				"down": { "uv": [ 0, 8, 0.375, 8.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 15.625, 15.625, 16, 15.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 5.875, 8.75, 6.25, 9.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 6.25, 8.125, 5.875, 8.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.25, 8.375, 5.125, 9 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 5.25, 12.625, 5.375, 13.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail52",
+			"from": [ 7.3628, 6.5133, 26.4779 ],
+			"to": [ 8.637136, 7.362857, 27.32746 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 10.5, 9.625, 10.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.25, 12, 9.625, 11.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.25, 14, 9.625, 14.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 9.625, 12, 9.25, 12.25 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10, 13.5, 9.75, 13.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.75, 11.75, 10, 12 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail53",
+			"from": [ 7.3628, 6.5133, 25.2035 ],
+			"to": [ 8.637136, 6.938079, 26.47783 ],
+			"faces": {
+				"down": { "uv": [ 5, 10, 5.375, 10.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 8.625, 12.75, 9, 12.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 11.125, 13.625, 11.5, 13.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 15.375, 13.75, 15, 13.875 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 13, 13.625, 12.625, 13.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 11.5, 13.625, 11.875, 13.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail54",
+			"from": [ 7.3628, 6.9381, 27.7522 ],
+			"to": [ 8.637136, 8.212437, 29.45131 ],
+			"faces": {
+				"down": { "uv": [ 8.625, 14.125, 9, 14.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 6.5, 8.5, 6.875, 8 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 8.625, 11.625, 9, 12 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 5.375, 9.625, 5, 10 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 8.5, 12.75, 8, 13.125 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 8, 13.125, 8.5, 13.5 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail55",
+			"from": [ 7.3628, 7.3628, 29.4513 ],
+			"to": [ 8.637136, 8.212358, 30.72564 ],
+			"faces": {
+				"down": { "uv": [ 8.625, 9.75, 9, 10.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 8.625, 12.375, 9, 12 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.25, 12.75, 9.625, 13 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 9.625, 9.25, 9.25, 9.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.625, 12.5, 9.25, 12.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.25, 13, 9.625, 13.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail56",
+			"from": [ 7.3628, 7.7876, 30.7257 ],
+			"to": [ 8.637136, 8.212379, 31.57526 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 13.5, 9.625, 13.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.25, 11.25, 9.625, 11 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 14.625, 13.75, 15, 13.875 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 14.625, 13.75, 14.25, 13.875 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.375, 11, 5.125, 11.125 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 5.125, 11.125, 5.375, 11.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail57",
+			"from": [ 7.3628, 8.212399, 27.7522 ],
+			"to": [ 8.637136, 8.637178, 29.02654 ],
+			"faces": {
+				"down": { "uv": [ 8.625, 11.25, 9, 11.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 8.625, 13.125, 9, 12.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 13.625, 10.375, 13.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 15.75, 13.75, 15.375, 13.875 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 11.125, 13.625, 10.75, 13.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.375, 13.625, 10.75, 13.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail58",
+			"from": [ 7.3628, 8.212399, 26.4779 ],
+			"to": [ 8.637136, 8.637178, 27.32746 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 10.75, 9.625, 11 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.25, 12.5, 9.625, 12.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 12.25, 13.625, 12.625, 13.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 12.25, 13.625, 11.875, 13.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 16, 14.75, 15.75, 14.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 11.125, 14.75, 11.375, 14.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail59",
+			"from": [ 7.3628, 8.637199, 16.2832 ],
+			"to": [ 8.637136, 9.061978, 18.83187 ],
+			"faces": {
+				"down": { "uv": [ 0.625, 8.5, 1, 9.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 0.625, 10, 1, 9.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 13.375, 13.625, 13.75, 13.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 13.375, 13.625, 13, 13.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 15, 14.25, 14.25, 14.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 15, 14.25, 15.75, 14.375 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail60",
+			"from": [ 7.3628, 12.0354, 23.9292 ],
+			"to": [ 8.637136, 12.46018, 28.60176 ],
+			"faces": {
+				"down": { "uv": [ 0.625, 10, 1, 11.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 0, 9.5, 0.375, 8.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 14.5, 13.625, 14.875, 13.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 14.5, 13.625, 14.125, 13.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 11.375, 14.875, 10, 15 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10, 15, 11.375, 15.125 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail61",
+			"from": [ 7.3628, 12.4602, 22.2301 ],
+			"to": [ 8.637136, 12.88498, 23.07966 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 11.25, 9.625, 11.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.25, 9.75, 9.625, 9.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 13.25, 10.375, 13.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 13.375, 10, 13.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.375, 10.875, 5.125, 11 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 5.125, 11.25, 5.375, 11.375 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail62",
+			"from": [ 7.3628, 12.885, 23.5044 ],
+			"to": [ 8.637136, 13.30978, 26.05307 ],
+			"faces": {
+				"down": { "uv": [ 5, 11.875, 5.375, 12.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 3.375, 8.875, 3.75, 8.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 12.75, 10.375, 12.875 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 12.875, 10, 13 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 8.5, 11.625, 7.75, 11.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 7.75, 13.625, 8.5, 13.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail63",
+			"from": [ 7.7876, 3.9646, 14.5841 ],
+			"to": [ 8.212379, 4.389379, 15.00888 ],
+			"faces": {
+				"down": { "uv": [ 10.25, 8.875, 10.375, 9 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.125, 8.75, 10.25, 8.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.375, 13.5, 10.5, 13.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 8, 10.25, 8.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.75, 13.5, 10.625, 13.625 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.5, 13.5, 10.625, 13.625 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail64",
+			"from": [ 7.7876, 4.3894, 15.0088 ],
+			"to": [ 8.212379, 4.814179, 17.13269 ],
+			"faces": {
+				"down": { "uv": [ 5.25, 8.375, 5.375, 9 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 5.75, 9.25, 5.875, 8.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 11.125, 13.5, 11.25, 13.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 11.125, 13.5, 11, 13.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 12.625, 14.75, 12, 14.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 11.375, 14.75, 12, 14.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail65",
+			"from": [ 7.7876, 4.8142, 18.8319 ],
+			"to": [ 8.212379, 5.238979, 20.53102 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 8, 8.625, 8.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9, 8.5, 9.125, 8 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 2.875, 13.25, 3, 13.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 11.375, 13.5, 11.25, 13.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 11.75, 13.75, 11.25, 13.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.75, 13.75, 11.25, 13.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail66",
+			"from": [ 7.7876, 5.2389, 20.531 ],
+			"to": [ 8.212379, 5.663679, 23.07967 ],
+			"faces": {
+				"down": { "uv": [ 6.25, 8, 6.375, 8.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 6.375, 8.75, 6.5, 8 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 5.25, 11.5, 5.375, 11.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 5.375, 11.625, 5.25, 11.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 8.5, 11.375, 7.75, 11.5 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 7.75, 11.5, 8.5, 11.625 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail67",
+			"from": [ 7.7876, 5.6637, 23.5044 ],
+			"to": [ 8.212379, 6.088479, 25.20352 ],
+			"faces": {
+				"down": { "uv": [ 9.625, 10.875, 9.75, 11.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.625, 10.875, 9.75, 10.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 8.375, 9.875, 8.5, 10 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 16, 15.75, 15.875, 15.875 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 13.75, 13.75, 13.25, 13.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 12.75, 13.75, 13.25, 13.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail68",
+			"from": [ 7.7876, 6.0885, 25.2035 ],
+			"to": [ 8.212379, 6.513279, 27.75217 ],
+			"faces": {
+				"down": { "uv": [ 9, 9.25, 9.125, 10 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9, 9.25, 9.125, 8.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 8, 10.125, 8.125 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.25, 8.125, 10.125, 8.25 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 16, 14.375, 15.25, 14.5 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 7.75, 11.25, 8.5, 11.375 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail69",
+			"from": [ 7.7876, 6.5133, 27.7522 ],
+			"to": [ 8.212379, 6.938079, 29.45131 ],
+			"faces": {
+				"down": { "uv": [ 9.75, 12.5, 9.875, 13 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.875, 13, 10, 12.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.125, 8.375, 10.25, 8.5 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 8.375, 10.25, 8.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 5.375, 10.5, 4.875, 10.625 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 13.75, 13.75, 14.25, 13.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail70",
+			"from": [ 7.7876, 6.9381, 29.4513 ],
+			"to": [ 8.212379, 7.362879, 30.72564 ],
+			"faces": {
+				"down": { "uv": [ 9.875, 11.125, 10, 11.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.75, 11.125, 9.875, 10.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 12.125, 13.5, 12.25, 13.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.125, 8.375, 10, 8.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 15.25, 13.625, 14.875, 13.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 13.75, 13.625, 14.125, 13.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail71",
+			"from": [ 7.7876, 7.3628, 30.7257 ],
+			"to": [ 8.212379, 7.787579, 31.57526 ],
+			"faces": {
+				"down": { "uv": [ 10.25, 11.625, 10.375, 11.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.875, 8.375, 10, 8.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.25, 9.875, 10.375, 10 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.25, 9.25, 10.125, 9.375 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.625, 8.5, 9.375, 8.625 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 15.75, 13.75, 16, 13.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail72",
+			"from": [ 7.7876, 7.7876, 31.5752 ],
+			"to": [ 8.212379, 8.212379, 31.99998 ],
+			"faces": {
+				"down": { "uv": [ 10, 10, 10.125, 10.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.25, 10.625, 10.375, 10.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.125, 10.625, 10.25, 10.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.25, 10.5, 10.125, 10.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.375, 10.75, 10.25, 10.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10, 10.625, 10.125, 10.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail73",
+			"from": [ 7.7876, 8.212399, 29.0265 ],
+			"to": [ 8.212379, 9.061957, 31.57517 ],
+			"faces": {
+				"down": { "uv": [ 9.125, 13.5, 9.25, 14.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.125, 13.5, 9.25, 12.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.125, 11, 10.25, 11.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 11, 10.25, 11.25 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 8.5, 9.5, 7.75, 9.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 7.75, 9.25, 8.5, 9.5 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail74",
+			"from": [ 7.7876, 8.637199, 28.6018 ],
+			"to": [ 8.212379, 12.46021, 29.02658 ],
+			"faces": {
+				"down": { "uv": [ 10.25, 8.625, 10.375, 8.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.125, 10.375, 10.25, 10.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 8.5, 9.625, 8.625, 10.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 8.625, 10.75, 8.5, 11.875 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 8.75, 10.125, 8.625, 11.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 8.5, 8.5, 8.625, 9.625 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail75",
+			"from": [ 7.7876, 8.637199, 23.0796 ],
+			"to": [ 8.212379, 12.03543, 28.60172 ],
+			"faces": {
+				"down": { "uv": [ 8.5, 11.875, 8.625, 13.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 8.5, 15.125, 8.625, 13.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 8.75, 8, 8.875, 9 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 8.75, 8, 8.625, 9 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 1.625, 14, 0, 15 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 1.625, 14, 3.25, 15 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail76",
+			"from": [ 7.7876, 8.637199, 22.6549 ],
+			"to": [ 8.212379, 11.18587, 23.07968 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 10.125, 10.25, 10.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.25, 10.25, 10.375, 10.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.125, 11.25, 9.25, 12 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 9.25, 12, 9.125, 12.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.375, 8.5, 9.25, 9.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.125, 10.5, 9.25, 11.25 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail77",
+			"from": [ 7.7876, 8.637199, 22.2301 ],
+			"to": [ 8.212379, 10.33631, 22.65488 ],
+			"faces": {
+				"down": { "uv": [ 10.25, 8.75, 10.375, 8.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10, 8.75, 10.125, 8.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 8.375, 11.75, 8.5, 12.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 8.5, 8, 8.375, 8.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.75, 9.875, 9.625, 10.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.625, 9.375, 9.75, 9.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail78",
+			"from": [ 7.7876, 8.637199, 21.8053 ],
+			"to": [ 8.212379, 9.486757, 22.23008 ],
+			"faces": {
+				"down": { "uv": [ 11.625, 13.5, 11.75, 13.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 12, 13.625, 12.125, 13.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.75, 9.125, 9.875, 9.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10, 9.75, 9.875, 10 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.875, 8.875, 9.75, 9.125 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.875, 9.125, 10, 9.375 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail79",
+			"from": [ 7.7876, 8.637199, 18.8319 ],
+			"to": [ 8.212379, 9.061978, 19.25668 ],
+			"faces": {
+				"down": { "uv": [ 8.375, 9.75, 8.5, 9.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 15.875, 14.125, 16, 14 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.25, 11.5, 10.375, 11.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10, 9.625, 9.875, 9.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.125, 10.75, 10, 10.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.25, 10.875, 10.375, 11 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail80",
+			"from": [ 7.7876, 9.0619, 29.0265 ],
+			"to": [ 8.212379, 10.76101, 31.15039 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 8, 5.875, 8.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 6.25, 9.375, 6.375, 8.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.625, 11.875, 9.75, 12.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 9.75, 11.375, 9.625, 11.875 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 7.25, 12.25, 6.625, 12.75 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 6, 12.25, 6.625, 12.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail81",
+			"from": [ 7.7876, 10.7611, 29.0265 ],
+			"to": [ 8.212379, 12.03544, 30.72561 ],
+			"faces": {
+				"down": { "uv": [ 9.625, 12.875, 9.75, 13.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.5, 8.5, 9.625, 8 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.75, 10, 9.875, 10.375 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10, 10.375, 9.875, 10.75 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10, 14.75, 9.5, 15.125 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9, 14.75, 9.5, 15.125 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail82",
+			"from": [ 7.7876, 12.0354, 29.0265 ],
+			"to": [ 8.212379, 12.46018, 30.30083 ],
+			"faces": {
+				"down": { "uv": [ 9.875, 10, 10, 10.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.75, 10, 9.875, 9.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 10.125, 10.125, 10.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 10.25, 10.25, 10.375 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.375, 12.125, 10, 12.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10, 12.25, 10.375, 12.375 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail83",
+			"from": [ 7.7876, 12.0354, 22.2301 ],
+			"to": [ 8.212379, 12.46018, 23.92921 ],
+			"faces": {
+				"down": { "uv": [ 9.375, 8, 9.5, 8.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.25, 8.5, 9.375, 8 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 9.875, 10.125, 10 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 10, 10.25, 10.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 15.625, 13.875, 15.125, 14 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.25, 13.75, 10.75, 13.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail84",
+			"from": [ 7.7876, 12.4602, 30.3009 ],
+			"to": [ 8.212379, 12.88498, 31.15046 ],
+			"faces": {
+				"down": { "uv": [ 9.75, 8.625, 9.875, 8.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9.875, 8.875, 10, 8.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 9.625, 10.125, 9.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 9.75, 10.25, 9.875 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10, 8.375, 9.75, 8.5 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.75, 8.5, 10, 8.625 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail85",
+			"from": [ 7.7876, 12.4602, 21.8053 ],
+			"to": [ 8.212379, 12.88498, 22.23008 ],
+			"faces": {
+				"down": { "uv": [ 10, 9.5, 10.125, 9.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.125, 9.625, 10.25, 9.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 9.375, 10.125, 9.5 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 9.5, 10.25, 9.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.375, 9.375, 10.25, 9.5 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.125, 9.375, 10.25, 9.5 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail86",
+			"from": [ 7.7876, 12.885, 26.0531 ],
+			"to": [ 8.212379, 15.00889, 30.30089 ],
+			"faces": {
+				"down": { "uv": [ 0.375, 8.25, 0.5, 9.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 0.5, 9.5, 0.625, 8.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.375, 8.625, 9.5, 9.25 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 6.5, 8.75, 6.375, 9.375 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 3, 13.375, 1.75, 14 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 3, 13.375, 4.25, 14 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail87",
+			"from": [ 7.7876, 12.885, 22.6549 ],
+			"to": [ 8.212379, 13.30978, 23.50446 ],
+			"faces": {
+				"down": { "uv": [ 10, 11.625, 10.125, 11.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.125, 11.875, 10.25, 11.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10, 8.875, 10.125, 9 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.375, 9, 10.25, 9.125 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.25, 11.5, 10, 11.625 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.75, 8, 10, 8.125 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail88",
+			"from": [ 7.7876, 13.3097, 25.6283 ],
+			"to": [ 8.212379, 16.28315, 26.05308 ],
+			"faces": {
+				"down": { "uv": [ 10, 8.75, 10.125, 8.875 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.125, 8.875, 10.25, 8.75 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9, 11.75, 9.125, 12.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 9.125, 12.625, 9, 13.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.125, 10, 9, 10.875 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9, 10.875, 9.125, 11.75 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail89",
+			"from": [ 7.7876, 13.3097, 25.2035 ],
+			"to": [ 8.212379, 15.85837, 25.62828 ],
+			"faces": {
+				"down": { "uv": [ 10, 8.5, 10.125, 8.625 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.125, 8.625, 10.25, 8.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.125, 9, 9.25, 9.75 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 9.25, 9.75, 9.125, 10.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.375, 9.75, 9.25, 10.5 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.125, 8.25, 9.25, 9 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail90",
+			"from": [ 7.7876, 13.3097, 24.7788 ],
+			"to": [ 8.212379, 15.00881, 25.20358 ],
+			"faces": {
+				"down": { "uv": [ 10, 8.25, 10.125, 8.375 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.125, 8.375, 10.25, 8.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.75, 13, 9.875, 13.5 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10, 13, 9.875, 13.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 9.75, 8.875, 9.625, 9.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 9.625, 8.375, 9.75, 8.875 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail91",
+			"from": [ 7.7876, 13.3097, 24.354 ],
+			"to": [ 8.212379, 14.15926, 24.77878 ],
+			"faces": {
+				"down": { "uv": [ 10.25, 8.125, 10.375, 8.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 10.125, 8.125, 10.25, 8 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 10.125, 11.25, 10.25, 11.5 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 10.125, 11.25, 10, 11.5 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 10.125, 11, 10, 11.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 10.25, 11.25, 10.375, 11.5 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail92",
+			"from": [ 7.7876, 15.0089, 26.0531 ],
+			"to": [ 8.212379, 16.28324, 29.87611 ],
+			"faces": {
+				"down": { "uv": [ 8.75, 10.125, 8.875, 11.25 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 8.875, 11.25, 9, 10.125 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 9.75, 11.125, 9.875, 11.5 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 9.75, 8, 9.625, 8.375 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 3.875, 10, 2.75, 10.375 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 3.875, 9.625, 5, 10 ], "texture": "#meteorf8-tail" }
+			}
+		},
+		{
+			"__comment": "tail93",
+			"from": [ 7.7876, 16.2832, 26.0531 ],
+			"to": [ 8.212379, 16.70798, 29.45133 ],
+			"faces": {
+				"down": { "uv": [ 8.875, 8, 9, 9 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"up": { "uv": [ 9, 14.5, 9.125, 13.5 ], "texture": "#meteorf8-tail", "rotation": 180 },
+				"north": { "uv": [ 11.875, 13.5, 12, 13.625 ], "texture": "#meteorf8-tail" },
+				"south": { "uv": [ 11.875, 13.5, 11.75, 13.625 ], "texture": "#meteorf8-tail" },
+				"west": { "uv": [ 8.5, 10.125, 7.5, 10.25 ], "texture": "#meteorf8-tail" },
+				"east": { "uv": [ 7.5, 10, 8.5, 10.125 ], "texture": "#meteorf8-tail" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ 0, 7.05, 25.65 ],
+			"scale":  [ 3.78, 3.78, 3.78 ]
+		}
+	}
+}

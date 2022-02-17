@@ -1,0 +1,367 @@
+{
+	"__comment": "Designed by Uran2471 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "blocks/particle",
+		"texture": "blocks/texture",
+		"swordfish-rightwing": "custom/swordfish-rightwing"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "rightwing",
+			"from": [ 22.0952, 6.0952, -3.619 ],
+			"to": [ 30.67768, 7.415581, 1.662524 ],
+			"faces": {
+				"down": { "uv": [ 0, 14, 3.25, 16 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 0, 14, 3.25, 12 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 15.75, 15.5, 12.5, 16 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 5, 15, 8.25, 15.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 5, 13.5, 7, 14 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7, 13, 5, 13.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing1",
+			"from": [ 22.0952, 6.0952, 1.6625 ],
+			"to": [ 30.67768, 6.755391, 2.32269 ],
+			"faces": {
+				"down": { "uv": [ 5, 10.75, 8.25, 11 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 5, 10.75, 8.25, 10.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.25, 10.25, 5, 10.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 5, 10, 8.25, 10.25 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 8, 11.75, 8.25, 12 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.75, 13.25, 7.5, 13.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing2",
+			"from": [ 22.0952, 6.0952, 2.3227 ],
+			"to": [ 30.01749, 6.755391, 2.982891 ],
+			"faces": {
+				"down": { "uv": [ 5, 8.75, 8, 9 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 5, 9.25, 8, 9 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8, 9.25, 5, 9.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.25, 14.5, 11.25, 14.75 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 7.5, 13, 7.75, 13.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8, 13.25, 7.75, 13.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing3",
+			"from": [ 22.0952, 6.0952, 2.9829 ],
+			"to": [ 29.3573, 6.755391, 3.64309 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 13.25, 11, 13.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 11, 13.5, 13.75, 13.25 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 11, 13.5, 8.25, 13.75 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.25, 13, 11, 13.25 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 8, 13.25, 8.25, 13.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8, 13, 7.75, 13.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing4",
+			"from": [ 22.0952, 6.0952, 3.643 ],
+			"to": [ 28.03691, 6.755391, 4.30319 ],
+			"faces": {
+				"down": { "uv": [ 13.75, 13.75, 16, 14 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 13.75, 13.75, 16, 13.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 16, 13.25, 13.75, 13.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 13.75, 13, 16, 13.25 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 7.75, 11, 8, 11.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.75, 11, 7.5, 11.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing5",
+			"from": [ 22.0952, 6.7554, 1.6625 ],
+			"to": [ 29.3573, 7.41559, 2.32269 ],
+			"faces": {
+				"down": { "uv": [ 11, 13.5, 13.75, 13.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 11, 13.25, 13.75, 13 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 11, 12.75, 8.25, 13 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.25, 12.5, 11, 12.75 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 8, 12.25, 8.25, 12.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.75, 11.25, 7.5, 11.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing6",
+			"from": [ 22.0952, 6.7554, 2.3227 ],
+			"to": [ 22.75539, 8.735971, 2.982891 ],
+			"faces": {
+				"down": { "uv": [ 7.25, 11.5, 7.5, 11.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.25, 12, 7.5, 11.75 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.75, 10, 8.5, 10.75 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10, 11.25, 10.25, 12 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 9.75, 11.25, 10, 12 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.5, 8.5, 8.25, 9.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing7",
+			"from": [ 22.0952, 7.4156, -2.9589 ],
+			"to": [ 22.75539, 8.735981, -2.298709 ],
+			"faces": {
+				"down": { "uv": [ 8, 12, 8.25, 12.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.75, 12.25, 8, 12 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 7.5, 13.5, 7.25, 14 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 7.5, 13.5, 7.75, 14 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 3, 10, 3.25, 10.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8, 13.5, 7.75, 14 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing8",
+			"from": [ 22.0952, 7.4156, 1.0023 ],
+			"to": [ 22.75539, 8.735981, 1.662491 ],
+			"faces": {
+				"down": { "uv": [ 8, 11, 8.25, 11.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.75, 12, 8, 11.75 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.25, 13.5, 8, 14 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 4.75, 9.5, 5, 10 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 4.75, 10, 5, 10.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 2.25, 8, 2, 8.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing9",
+			"from": [ 22.0952, 14.0175, -4.9394 ],
+			"to": [ 27.37672, 15.33788, 0.3421245 ],
+			"faces": {
+				"down": { "uv": [ 0, 10, 2, 12 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 0, 10, 2, 8 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 7, 12.5, 5, 13 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 5, 11.5, 7, 12 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 5, 11, 7, 11.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7, 12, 5, 12.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing10",
+			"from": [ 22.0952, 14.0175, 0.3421 ],
+			"to": [ 31.99806, 14.67769, 1.662481 ],
+			"faces": {
+				"down": { "uv": [ 8.75, 15.5, 12.5, 16 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 5, 16, 8.75, 15.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 15.75, 15.25, 12, 15.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8.25, 15.25, 12, 15.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 7, 13, 7.5, 13.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.5, 13.25, 7, 13.5 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing11",
+			"from": [ 22.0952, 14.0175, 1.6625 ],
+			"to": [ 31.33787, 14.67769, 2.32269 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 15, 11.75, 15.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 11.75, 15.25, 15.25, 15 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 11.75, 14.75, 8.25, 15 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 11.75, 14.75, 15.25, 15 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 7, 12.5, 7.25, 12.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.25, 12.75, 7, 13 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing12",
+			"from": [ 22.0952, 14.0175, 2.3227 ],
+			"to": [ 30.67768, 14.67769, 3.643081 ],
+			"faces": {
+				"down": { "uv": [ 5, 14.5, 8.25, 15 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 5, 14.5, 8.25, 14 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.25, 9.75, 5, 10 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 5, 9.5, 8.25, 9.75 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 2.75, 8, 3.25, 8.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 2.75, 8, 2.25, 8.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing13",
+			"from": [ 22.0952, 14.0175, 3.643 ],
+			"to": [ 30.01749, 14.67769, 4.30319 ],
+			"faces": {
+				"down": { "uv": [ 11.25, 14.25, 14.25, 14.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 8.25, 14.25, 11.25, 14 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 14.25, 14, 11.25, 14.25 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 5, 8, 8, 8.25 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 7.75, 12.25, 8, 12.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.75, 12, 7.5, 12.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing14",
+			"from": [ 22.0952, 14.0175, 4.3032 ],
+			"to": [ 29.3573, 14.67769, 4.96339 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 12.25, 11, 12.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 8.25, 12.25, 11, 12 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 11, 13.75, 8.25, 14 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 11, 13.75, 13.75, 14 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 8, 12.75, 8.25, 13 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8, 12.75, 7.75, 13 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing15",
+			"from": [ 22.7554, 8.736, -2.9589 ],
+			"to": [ 23.41559, 10.71657, -2.298709 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 12.5, 7.75, 12.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.5, 13, 7.75, 12.75 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 10.75, 11.25, 10.5, 12 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.75, 11.25, 11, 12 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 8.25, 10, 8.5, 10.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.5, 9.25, 8.25, 10 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing16",
+			"from": [ 22.7554, 8.736, 1.0023 ],
+			"to": [ 23.41559, 10.71657, 1.662491 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 11.75, 7.75, 12 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.5, 12.5, 7.75, 12.25 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8.75, 9.25, 8.5, 10 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 10.25, 11.25, 10.5, 12 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 8.5, 8.5, 8.75, 9.25 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 9, 10, 8.75, 10.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing17",
+			"from": [ 22.7554, 8.736, 2.3227 ],
+			"to": [ 23.41559, 14.01752, 2.982891 ],
+			"faces": {
+				"down": { "uv": [ 7.25, 12, 7.5, 12.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.25, 12.5, 7.5, 12.25 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 2.5, 10, 2.25, 12 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 2.5, 10, 2.75, 12 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 2.75, 10, 3, 12 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 2.25, 10, 2, 12 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing18",
+			"from": [ 22.7554, 10.7166, -3.619 ],
+			"to": [ 23.41559, 14.01755, -2.958809 ],
+			"faces": {
+				"down": { "uv": [ 8, 13, 8.25, 13.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7.5, 11.75, 7.75, 11.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 9, 10.75, 8.75, 12 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 2.75, 8.75, 3, 10 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 8.5, 10.75, 8.75, 12 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.5, 10.75, 8.25, 12 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing19",
+			"from": [ 22.7554, 10.7166, 0.3421 ],
+			"to": [ 23.41559, 14.01755, 1.00229 ],
+			"faces": {
+				"down": { "uv": [ 7, 12.25, 7.25, 12.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 7, 12.25, 7.25, 12 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 2.5, 8.75, 2.25, 10 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 3, 8.75, 3.25, 10 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 2.5, 8.75, 2.75, 10 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 9.25, 10.75, 9, 12 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing20",
+			"from": [ 24.0758, 14.6777, 0.3421 ],
+			"to": [ 31.99809, 15.33789, 1.00229 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 14.25, 11.25, 14.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 11.25, 14.75, 14.25, 14.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8, 8.25, 5, 8.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 5, 8.5, 8, 8.75 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 7.25, 12.75, 7.5, 13 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.5, 12.5, 7.25, 12.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing21",
+			"from": [ 26.7166, 14.6777, 1.0023 ],
+			"to": [ 31.33793, 15.33789, 1.662491 ],
+			"faces": {
+				"down": { "uv": [ 3.25, 8.25, 5, 8.5 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 3.25, 8.25, 5, 8 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 16, 14.25, 14.25, 14.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 3.25, 9.25, 5, 9.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 7.75, 12.5, 8, 12.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 8.25, 12.5, 8, 12.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing22",
+			"from": [ 27.3768, 14.0175, -4.2792 ],
+			"to": [ 31.99813, 15.33788, 0.3421335 ],
+			"faces": {
+				"down": { "uv": [ 3.25, 12.5, 5, 14.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 3.25, 16, 5, 14.25 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 5, 10.5, 3.25, 11 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 3.25, 12, 5, 12.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 3.25, 11, 5, 11.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 5, 11.5, 3.25, 12 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing23",
+			"from": [ 27.3768, 14.6777, -4.9394 ],
+			"to": [ 31.99813, 15.33789, -4.279209 ],
+			"faces": {
+				"down": { "uv": [ 3.25, 9, 5, 9.25 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 3.25, 9, 5, 8.75 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 16, 14.5, 14.25, 14.75 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 3.25, 8.5, 5, 8.75 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 7, 11.75, 7.25, 12 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.25, 11.5, 7, 11.75 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing24",
+			"from": [ 30.6777, 6.0952, -2.9589 ],
+			"to": [ 31.33789, 7.415581, 1.002243 ],
+			"faces": {
+				"down": { "uv": [ 2, 8.5, 2.25, 10 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 3, 12, 3.25, 10.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 16, 15.5, 15.75, 16 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 7, 13.5, 7.25, 14 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 3.25, 10, 4.75, 10.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 4.75, 9.5, 3.25, 10 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing25",
+			"from": [ 30.6777, 6.0952, 1.0023 ],
+			"to": [ 31.33789, 6.755391, 1.662491 ],
+			"faces": {
+				"down": { "uv": [ 7.75, 11.5, 8, 11.75 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 8, 11.75, 8.25, 11.5 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 7.25, 11.25, 7, 11.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 7, 11, 7.25, 11.25 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 7.25, 11.25, 7.5, 11.5 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 7.5, 11, 7.25, 11.25 ], "texture": "#swordfish-rightwing" }
+			}
+		},
+		{
+			"__comment": "rightwing26",
+			"from": [ 31.3379, 6.0952, -1.6385 ],
+			"to": [ 31.99809, 6.755391, 1.002262 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 11, 9.75, 12 ], "texture": "#swordfish-rightwing" },
+				"up": { "uv": [ 9.25, 12, 9.5, 11 ], "texture": "#swordfish-rightwing" },
+				"north": { "uv": [ 8, 11.25, 7.75, 11.5 ], "texture": "#swordfish-rightwing" },
+				"south": { "uv": [ 8, 11.25, 8.25, 11.5 ], "texture": "#swordfish-rightwing" },
+				"west": { "uv": [ 2.25, 8.5, 3.25, 8.75 ], "texture": "#swordfish-rightwing" },
+				"east": { "uv": [ 3.25, 8.25, 2.25, 8.5 ], "texture": "#swordfish-rightwing" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ 15, -4, -5 ],
+			"scale":  [ 3.975, 3.975, 3.975 ]
+		}
+	}
+}
