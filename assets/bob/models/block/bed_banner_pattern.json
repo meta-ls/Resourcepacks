@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"elements": [
+		{
+			"from": [0, 5.625, 8.1],
+			"to": [16, 5.625, 32],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 13.75, 8]
+			},
+			"faces": {
+				"up": {
+					"uv": [0.25, 0, 5.25, 10.25],
+					"texture": "#pattern",
+					"tintindex": 0
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -40.83, 0],
+			"scale": [1.6, 1, 1.6]
+		}
+	}
+}

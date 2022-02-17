@@ -1,0 +1,6 @@
+{
+	"parent": "bob:block/bed_banner_pattern",
+	"textures": {
+		"pattern": "minecraft:entity/banner/square_bottom_right"
+	}
+}
