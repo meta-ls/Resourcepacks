@@ -1,0 +1,7 @@
+{
+    "gui_light": "front",
+    "parent": "railcraft:gui/template_upper",
+    "textures": {
+        "texture": "railcraft:gui/steam_vanilla"
+    }
+}

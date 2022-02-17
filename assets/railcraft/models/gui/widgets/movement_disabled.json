@@ -1,0 +1,6 @@
+{
+    "parent": "railcraft:gui/widgets/widget_18_18",
+    "textures": {
+        "texture": "railcraft:gui/widgets/movement_disabled"
+    }
+}
