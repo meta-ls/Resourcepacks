@@ -1,0 +1,34 @@
+{
+    "parent": "item/template_spawn_egg",
+    
+    "overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/thumbnails/a5m"},
+		{ "predicate": {"custom_model_data":2}, "model": "item/thumbnails/ki-43"},
+		{ "predicate": {"custom_model_data":3}, "model": "item/thumbnails/d3a"},
+		{ "predicate": {"custom_model_data":4}, "model": "item/thumbnails/ki-21"},
+		{ "predicate": {"custom_model_data":5}, "model": "item/thumbnails/a6m2"},
+		{ "predicate": {"custom_model_data":6}, "model": "item/flags/rising-sun"},
+		{ "predicate": {"custom_model_data":7}, "model": "item/thumbnails/ki-44"},
+		{ "predicate": {"custom_model_data":8}, "model": "item/thumbnails/d4y"},
+		{ "predicate": {"custom_model_data":9}, "model": "item/thumbnails/j2m3"},
+		{ "predicate": {"custom_model_data":10}, "model": "item/thumbnails/g4m1"},
+		{ "predicate": {"custom_model_data":11}, "model": "item/thumbnails/a6m5"},
+		{ "predicate": {"custom_model_data":12}, "model": "item/thumbnails/ki-61"},
+		{ "predicate": {"custom_model_data":13}, "model": "item/thumbnails/n1k2"},
+		{ "predicate": {"custom_model_data":14}, "model": "item/thumbnails/ki-49"},
+		{ "predicate": {"custom_model_data":15}, "model": "item/thumbnails/f4u1"},
+		{ "predicate": {"custom_model_data":16}, "model": "item/thumbnails/fw190d9"},
+		{ "predicate": {"custom_model_data":17}, "model": "item/thumbnails/swordfish"},
+		{ "predicate": {"custom_model_data":18}, "model": "item/thumbnails/spitfiremkix"},
+		{ "predicate": {"custom_model_data":19}, "model": "item/thumbnails/fireflymkv"},
+		{ "predicate": {"custom_model_data":20}, "model": "item/thumbnails/seafuryfb11"},
+		{ "predicate": {"custom_model_data":21}, "model": "item/thumbnails/bf109g"},
+		{ "predicate": {"custom_model_data":22}, "model": "item/thumbnails/ju87b"},
+		{ "predicate": {"custom_model_data":23}, "model": "item/thumbnails/me262a1a"},
+		{ "predicate": {"custom_model_data":24}, "model": "item/thumbnails/sbd3"},
+		{ "predicate": {"custom_model_data":25}, "model": "item/thumbnails/p47d"},
+		{ "predicate": {"custom_model_data":26}, "model": "item/thumbnails/p38l"},
+		{ "predicate": {"custom_model_data":27}, "model": "item/thumbnails/meteorf8"},
+		{ "predicate": {"custom_model_data":28}, "model": "item/thumbnails/b17g"}
+    ]
+}

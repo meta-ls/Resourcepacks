@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/orange_stained_glass"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1000000}, "model": "railcraft:gui/widgets/fuel_0"},
+		{ "predicate": { "custom_model_data": 1000001}, "model": "railcraft:gui/widgets/fuel_1"},
+		{ "predicate": { "custom_model_data": 1000002}, "model": "railcraft:gui/widgets/fuel_2"},
+		{ "predicate": { "custom_model_data": 1000003}, "model": "railcraft:gui/widgets/fuel_3"},
+		{ "predicate": { "custom_model_data": 1000004}, "model": "railcraft:gui/widgets/fuel_4"},
+		{ "predicate": { "custom_model_data": 1000005}, "model": "railcraft:gui/widgets/fuel_5"},
+		{ "predicate": { "custom_model_data": 1000006}, "model": "railcraft:gui/widgets/fuel_6"},
+		{ "predicate": { "custom_model_data": 1000007}, "model": "railcraft:gui/widgets/fuel_7"},
+		{ "predicate": { "custom_model_data": 1000008}, "model": "railcraft:gui/widgets/fuel_8"}
+	]
+}

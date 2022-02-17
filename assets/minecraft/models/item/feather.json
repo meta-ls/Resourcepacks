@@ -1,0 +1,12 @@
+{
+    "gui_light": "front",
+    "parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/feather"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1000000}, "model": "minecraft:item/barrier"},
+		{ "predicate": { "custom_model_data": 1000001}, "model": "railcraft:empty"},
+		{ "predicate": { "custom_model_data": 1000002}, "model": "railcraft:gui/steam_vanilla"}
+	]
+}

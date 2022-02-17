@@ -1,0 +1,22 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/arrow"
+    },
+    
+    "overrides": [
+        { "predicate": {"custom_model_data":1}, "model": "item/weapon/ho103"},
+        { "predicate": {"custom_model_data":2}, "model": "item/weapon/60kg-bomb"},
+        { "predicate": {"custom_model_data":3}, "model": "item/weapon/50kg-bomb"},
+        { "predicate": {"custom_model_data":4}, "model": "item/weapon/type3no1mk28mod1-bomb"},
+        { "predicate": {"custom_model_data":5}, "model": "item/weapon/type91-torpedo"},
+        { "predicate": {"custom_model_data":6}, "model": "item/weapon/100kg-bomb"},
+        { "predicate": {"custom_model_data":7}, "model": "item/weapon/800kg-bomb"},
+        { "predicate": {"custom_model_data":8}, "model": "item/weapon/250kg-bomb"},
+        { "predicate": {"custom_model_data":9}, "model": "item/weapon/500kg-bomb"},
+        { "predicate": {"custom_model_data":10}, "model": "item/weapon/mg151"},
+        { "predicate": {"custom_model_data":11}, "model": "item/weapon/1000lb-bomb"},
+        { "predicate": {"custom_model_data":12}, "model": "item/weapon/hvar"}
+
+    ]
+}
