@@ -1,0 +1,27 @@
+{
+	"__comment": "Designed by Uran2471 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"texture": "weapon/50kg-bomb"
+	},
+	"gui_light": "front",
+	"elements": [ 	 
+		{
+			"__comment": "PlaneY1",
+			"from": [ 0, 0, 8.999 ],
+			"to": [ 16, 16, 9 ],
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 0, 0, 0 ]
+		},
+		"ground": {
+			"rotation":  [ 0, 0, 0 ]
+		}
+	}
+}

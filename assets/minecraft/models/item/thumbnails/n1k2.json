@@ -1,0 +1,28 @@
+{
+	"__comment": "Designed by Uran2471 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"texture": "thumbnails/n1k2-top",
+		"texture1": "thumbnails/n1k2-bottom"
+	},
+	"gui_light": "front",
+	"elements": [ 	 
+		{
+			"__comment": "PlaneY1",
+			"from": [ 0, 0, 8.999 ],
+			"to": [ 16, 16, 9 ],
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#texture1" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 0, 0, 45 ]
+		},
+		"ground": {
+			"rotation":  [ -90, 0, 0 ]
+		}
+	}
+}
