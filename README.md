@@ -15,7 +15,11 @@ This Resourcepack is made for the server [MetaLS](https://discord.gg/gBKdvbPKxa)
 ## Socials
 
 [ Discord](https://discord.gg/gBKdvbPKxa)
+
 [YouTube - MetaLS](https://www.youtube.com/channel/UCcn1l2URYzjETBysumuIgfA)
+
 [Instagram](https://www.instagram.com/meta.l.s/)
+
 [Twitter](https://twitter.com/ls_meta)
+
 [Twitch](https://twitch.tv/Meta_LS)
