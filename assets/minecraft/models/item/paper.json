@@ -5,17 +5,16 @@
     },
     
     "overrides": [
-        { "predicate": {"custom_model_data":1}, "model": "money/one_bit"}
-        { "predicate": {"custom_model_data":5}, "model": "money/five_bit"},
-        { "predicate": {"custom_model_data":10}, "model": "money/ten_bit"},
+        { "predicate": {"custom_model_data":1}, "model": "item/money/one_bit"},
+        { "predicate": {"custom_model_data":5}, "model": "item/money/five_bit"},
+        { "predicate": {"custom_model_data":10}, "model": "item/money/ten_bit"},
         { "predicate": {"custom_model_data":11}, "model": "item/items/throttle-up"},
         { "predicate": {"custom_model_data":12}, "model": "item/items/throttle-down"},
         { "predicate": {"custom_model_data":13}, "model": "item/items/lock-turning"},
-        { "predicate": {"custom_model_data":50}, "model": "money/fifty_bit"},
-        { "predicate": {"custom_model_data":100}, "model": "money/one_token"},
-        { "predicate": {"custom_model_data":500}, "model": "money/five_token"},
-        { "predicate": {"custom_model_data":1000}, "model": "money/ten_token"},
-        { "predicate": {"custom_model_data":5000}, "model": "money/fifty_token"}
-        
+        { "predicate": {"custom_model_data":50}, "model": "item/money/fifty_bit"},
+        { "predicate": {"custom_model_data":100}, "model": "item/money/one_token"},
+        { "predicate": {"custom_model_data":500}, "model": "item/money/five_token"},
+        { "predicate": {"custom_model_data":1000}, "model": "item/money/ten_token"},
+        { "predicate": {"custom_model_data":5000}, "model": "item/money/fifty_token"}
     ]
 }
