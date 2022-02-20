@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:money/fifty_token"
+    "layer0": "minecraft:item/fifty_token"
   }
 }

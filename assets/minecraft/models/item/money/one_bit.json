@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:money/one_bit"
+    "layer0": "minecraft:item/one_bit"
   }
 }
