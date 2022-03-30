@@ -15,6 +15,8 @@
         { "predicate": {"custom_model_data":100}, "model": "item/money/one_token"},
         { "predicate": {"custom_model_data":500}, "model": "item/money/five_token"},
         { "predicate": {"custom_model_data":1000}, "model": "item/money/ten_token"},
-        { "predicate": {"custom_model_data":5000}, "model": "item/money/fifty_token"}
+        { "predicate": {"custom_model_data":5000}, "model": "item/money/fifty_token"},
+        { "predicate": {"custom_model_data":6969}, "model": "item/susbutt"},
+        { "predicate": {"custom_model_data":69420}, "model": "item/sus"}
     ]
 }
